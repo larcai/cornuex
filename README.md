@@ -16,6 +16,12 @@ Join our gitter chat community
 [![Join the chat at https://gitter.im/cornuex/Lobby](https://badges.gitter.im/cornuex/Lobby.svg)](https://gitter.im/cornuex/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
+[Cornu Exchange Manual](https://www.gitbook.com/book/larcai/cornuex)
+
+[Cornu Exchange API](https://www.gitbook.com/book/larcai/cornuexapi)
+
+[Cornu Exchange Knowledge Base](https://www.gitbook.com/book/larcai/cornuexknowledgebase)
+
 Regards
 
 The Cornu Team
